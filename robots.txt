@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aksinha340.github.io/al-folio/sitemap.xml
+Sitemap: https://darkbird1.github.io/al-folio/sitemap.xml
