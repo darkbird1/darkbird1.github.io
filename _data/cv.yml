@@ -2,31 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Abhishek Kumar Sinha
     - name: Languages
-      value: English, German
+      value: English, Hindi, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Technology in Electronics and Communication Engineering
+      institution: Indian Institute of Space Science and Technology
+      year: 2016-2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Worked on neural video compression as a part of final year thesis.  
+        - Emperically studied the convergence of the particles' energy in a single quantum well in the presence of electric field as part of Sophomore project.
+        - Worked on Visual question-answering RNN model as a part of Sophomore project.
 
 - title: Experience
   type: time_table
