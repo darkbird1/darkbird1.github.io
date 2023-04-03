@@ -24,8 +24,7 @@
       institution: Space Applications Center (ISRO), Ahmedabad
       year: 2021-Present
       description:
-        - Developed several image processing modules as a part of Data Processing chain of India-BhutanSat Mission, including data ingestion, blind deconvolution, blind
-        destriping, neural nets for missing frame synthesis and geolocation accuracy improvement. 
+        - Developed several image processing modules as a part of Data Processing chain of India-BhutanSat Mission, including data ingestion, blind deconvolution, blind destriping, neural nets for missing frame synthesis and geolocation accuracy improvement. 
         - Worked on practical neural lossless image compression models for satellite image compression.
         - Worked on multiple AI research projects, including image super-resolution and hyperspectral recovery.
 
