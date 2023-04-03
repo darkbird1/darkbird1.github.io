@@ -20,53 +20,32 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Scientist/Engineer
+      institution: Space Applications Center (ISRO), Ahmedabad
+      year: 2021-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed several image processing modules as a part of Data Processing chain of India-BhutanSat Mission, including data ingestion, blind deconvolution, blind
+        destriping, neural nets for missing frame synthesis and geolocation accuracy improvement. 
+        - Worked on practical neural lossless image compression models for satellite image compression.
+        - Worked on multiple AI research projects, including image super-resolution and hyperspectral recovery.
+
+    - title: Project Intern
+      institution: Space Applications Center (ISRO), Ahmedabad
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Developed Doppler shift estimation model using six orbital parameters of the satellite.
+    
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2016-2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Department of Space scholarship for undergraduate studies covering tution cost and living expenses for four years. 
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Satish Dhawan Endowed CalTech Masters Fellowship (declined due to program delay during pandemic).
 
 - title: Academic Interests
   type: nested_list
