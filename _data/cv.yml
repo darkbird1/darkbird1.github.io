@@ -47,8 +47,8 @@
         - Satish Dhawan Endowed CalTech Masters Fellowship (declined due to program delay during pandemic).
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-      Neural Nets, Computer Vision, Deep learning, Machine Learning, Reinforcement Learning.
+      - Neural Nets, Computer Vision, Deep learning, Machine Learning, Reinforcement Learning.
 
 
