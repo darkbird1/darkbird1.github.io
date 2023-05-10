@@ -45,10 +45,14 @@ layout: default
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
             {%- include news.html %}
           {%- endif %}
-
+              
+           <!-- Reviewd -->
+              <h2>Conferences & Journals reviewed</h2>
+                  ICML 2023 Syn&ML workshop, ICCV 2023, CVPR 2023, CVPR Workshops 2022, IEEE Trans. of Signal Processing
+              
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
