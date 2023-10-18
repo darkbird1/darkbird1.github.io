@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper is British Machine Vision Comference (BMVC) 2023.
+Paper is accepted in British Machine Vision Comference (BMVC) 2023.
